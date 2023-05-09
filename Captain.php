@@ -28,7 +28,7 @@
 			<div class="col-md-2">
 				<div class="card" style="height:300px;">
 					<div class="card-body">
-                    <a class="nav-link" href="Captain_Account.php"><h5 class="card-title">Manage Green Captain Accounts</h5></a>
+                    <a class="nav-link" href="temp_Info.php"><h5 class="card-title">Manage GTF Member Reports</h5></a>
 						<p class="card-text">Some text goes here.</p>
 					</div>
 				</div>
@@ -52,7 +52,7 @@
 			<div class="col-md-2">
             <div class="card" style="height:300px;">
 					<div class="card-body">
-						<h5 class="card-title"><a href="Add_Article.php">Post articles</a></h5>
+						<h5 class="card-title">Post articles</h5>
 						<p class="card-text">Some text goes here.</p>
 					</div>
 				</div>
